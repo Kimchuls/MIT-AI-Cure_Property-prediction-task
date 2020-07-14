@@ -1,0 +1,1329 @@
+fold_0 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.5815192520618438,min=1e+100
+[cycle 0] validate: tn=98,fp=90/tp=14,fn=0. roc=0.9395896656534954,prc=0.5400367806327446
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.5659809956947962,min=0.5815192520618438
+[cycle 1] validate: tn=116,fp=72/tp=12,fn=2. roc=0.8332066869300911,prc=0.3247317682692737
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.48334915439287823,min=0.5659809956947962
+[cycle 2] validate: tn=135,fp=53/tp=14,fn=0. roc=0.9589665653495442,prc=0.5769373063418058
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.42051542103290557,min=0.48334915439287823
+[cycle 3] validate: tn=135,fp=53/tp=14,fn=0. roc=0.9764437689969605,prc=0.6590572519879243
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.3787283490101496,min=0.42051542103290557
+[cycle 4] validate: tn=155,fp=33/tp=14,fn=0. roc=0.98290273556231,prc=0.6809137360624534
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.3305714140335719,min=0.3787283490101496
+[cycle 5] validate: tn=154,fp=34/tp=14,fn=0. roc=0.9817629179331306,prc=0.6655678791695584
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.2853167027235031,min=0.3305714140335719
+[cycle 6] validate: tn=167,fp=21/tp=14,fn=0. roc=0.9825227963525835,prc=0.6668895926055369
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.25589992105960846,min=0.2853167027235031
+[cycle 7] validate: tn=164,fp=24/tp=14,fn=0. roc=0.9874620060790273,prc=0.7263351207554547
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.2364622414112091,min=0.25589992105960846
+[cycle 8] validate: tn=169,fp=19/tp=14,fn=0. roc=0.9863221884498481,prc=0.7029308202240534
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.2139409676194191,min=0.2364622414112091
+[cycle 9] validate: tn=162,fp=26/tp=14,fn=0. roc=0.9886018237082067,prc=0.7331350709833682
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.18649286031723022,min=0.2139409676194191
+[cycle 10] validate: tn=162,fp=26/tp=14,fn=0. roc=0.9882218844984803,prc=0.7260686918001159
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.17409715702136358,min=0.18649286031723022
+[cycle 11] validate: tn=171,fp=17/tp=14,fn=0. roc=0.9882218844984803,prc=0.7295029821829357
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.16689029584328333,min=0.17409715702136358
+[cycle 12] validate: tn=167,fp=21/tp=14,fn=0. roc=0.9905015197568389,prc=0.756259961965402
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.1676427220304807,min=0.16689029584328333
+[cycle 13] validate: tn=169,fp=19/tp=14,fn=0. roc=0.9886018237082067,prc=0.7334660587950063
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.14158395901322365,min=0.16689029584328333
+[cycle 14] validate: tn=169,fp=19/tp=14,fn=0. roc=0.9886018237082067,prc=0.7360020073849686
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.1313886672258377,min=0.14158395901322365
+[cycle 15] validate: tn=165,fp=23/tp=14,fn=0. roc=0.9908814589665653,prc=0.7577132018308489
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.13778445174296697,min=0.1313886672258377
+[cycle 16] validate: tn=167,fp=21/tp=14,fn=0. roc=0.9897416413373861,prc=0.7449807962689432
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.13747329240043957,min=0.1313886672258377
+[cycle 17] validate: tn=165,fp=23/tp=14,fn=0. roc=0.9912613981762919,prc=0.7624259590659968
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.1120741014679273,min=0.1313886672258377
+[cycle 18] validate: tn=169,fp=19/tp=14,fn=0. roc=0.9905015197568389,prc=0.754056739245815
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11570731562872728,min=0.1120741014679273
+[cycle 19] validate: tn=166,fp=22/tp=14,fn=0. roc=0.9897416413373861,prc=0.7479845735374262
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.11022960891326268,min=0.1120741014679273
+[cycle 20] validate: tn=176,fp=12/tp=14,fn=0. roc=0.9920212765957447,prc=0.8445391822230057
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.09557405921320121,min=0.11022960891326268
+[cycle 21] validate: tn=172,fp=16/tp=14,fn=0. roc=0.9912613981762919,prc=0.7624259590659968
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.1132254191984733,min=0.09557405921320121
+[cycle 22] validate: tn=170,fp=18/tp=14,fn=0. roc=0.9954407294832828,prc=0.9351081020986483
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.08627927886943022,min=0.09557405921320121
+[cycle 23] validate: tn=176,fp=12/tp=14,fn=0. roc=0.993161094224924,prc=0.8847848638289815
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.09290456970532736,min=0.08627927886943022
+[cycle 24] validate: tn=175,fp=13/tp=14,fn=0. roc=0.9912613981762918,prc=0.7619125738873638
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.09657553943494955,min=0.08627927886943022
+[cycle 25] validate: tn=181,fp=7/tp=14,fn=0. roc=0.9962006079027356,prc=0.9482754902660364
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.07202133337656656,min=0.08627927886943022
+[cycle 26] validate: tn=175,fp=13/tp=14,fn=0. roc=0.9916413373860182,prc=0.814777277461101
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.0815339290847381,min=0.07202133337656656
+[cycle 27] validate: tn=183,fp=5/tp=14,fn=0. roc=0.9954407294832827,prc=0.9351081020986483
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.07890960493435463,min=0.07202133337656656
+[cycle 28] validate: tn=182,fp=6/tp=14,fn=0. roc=0.9950607902735562,prc=0.9311327619625939
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.07611818338433901,min=0.07202133337656656
+[cycle 29] validate: tn=180,fp=8/tp=14,fn=0. roc=0.996580547112462,prc=0.9508328535376854
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.06467241502056519,min=0.07202133337656656
+[cycle 30] validate: tn=183,fp=5/tp=14,fn=0. roc=0.9950607902735562,prc=0.9311327619625939
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.07062139504899581,min=0.06467241502056519
+[cycle 31] validate: tn=181,fp=7/tp=14,fn=0. roc=0.9954407294832827,prc=0.9367604675902995
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.06955370915432771,min=0.06467241502056519
+[cycle 32] validate: tn=183,fp=5/tp=14,fn=0. roc=0.9969604863221885,prc=0.9588664311878599
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.05794937225679556,min=0.06467241502056519
+[cycle 33] validate: tn=184,fp=4/tp=14,fn=0. roc=0.996580547112462,prc=0.952048249369678
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.0650890947630008,min=0.05794937225679556
+[cycle 34] validate: tn=181,fp=7/tp=14,fn=0. roc=0.996580547112462,prc=0.9543971959413136
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.06108020699272553,min=0.05794937225679556
+[cycle 35] validate: tn=184,fp=4/tp=14,fn=0. roc=0.9973404255319149,prc=0.9651907178955499
+[fold 0] test: tn=189,fp=7/tp=2,fn=3
+
+[fold 0] ROC-AUC: 0.7908163265306123
+[fold 0] PRC-AUC: 0.35433874161076795
+fold_1 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6281993279854456,min=1e+100
+[cycle 0] validate: tn=110,fp=87/tp=3,fn=1. roc=0.7842639593908629,prc=0.5134934447151641
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.651591585079829,min=0.6281993279854456
+[cycle 1] validate: tn=139,fp=58/tp=2,fn=2. roc=0.7373096446700508,prc=0.063120402248003
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5488880296548208,min=0.6281993279854456
+[cycle 2] validate: tn=141,fp=56/tp=3,fn=1. roc=0.8692893401015228,prc=0.45810525695426685
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.4977304796377818,min=0.5488880296548208
+[cycle 3] validate: tn=165,fp=32/tp=3,fn=1. roc=0.9060913705583756,prc=0.7612803862803863
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.43820090691248575,min=0.4977304796377818
+[cycle 4] validate: tn=159,fp=38/tp=3,fn=1. roc=0.9352791878172588,prc=0.7660353535353535
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.3953808118899663,min=0.43820090691248575
+[cycle 5] validate: tn=167,fp=30/tp=4,fn=0. roc=0.9631979695431473,prc=0.6015456989247312
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.35123671690622965,min=0.3953808118899663
+[cycle 6] validate: tn=180,fp=17/tp=4,fn=0. roc=0.9771573604060914,prc=0.6176535087719298
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.3125489890575409,min=0.35123671690622965
+[cycle 7] validate: tn=186,fp=11/tp=4,fn=0. roc=0.9860406091370558,prc=0.6426282051282051
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.2695976217587789,min=0.3125489890575409
+[cycle 8] validate: tn=187,fp=10/tp=4,fn=0. roc=0.9860406091370558,prc=0.6426282051282051
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.22753428419431052,min=0.2695976217587789
+[cycle 9] validate: tn=188,fp=9/tp=4,fn=0. roc=0.9898477157360406,prc=0.6645833333333333
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.2077214409907659,min=0.22753428419431052
+[cycle 10] validate: tn=187,fp=10/tp=4,fn=0. roc=0.9961928934010151,prc=0.8839285714285714
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.203009927769502,min=0.2077214409907659
+[cycle 11] validate: tn=190,fp=7/tp=4,fn=0. roc=0.9949238578680204,prc=0.73125
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.17439565832416218,min=0.203009927769502
+[cycle 12] validate: tn=184,fp=13/tp=4,fn=0. roc=0.9974619289340101,prc=0.9083333333333333
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.1673451935251554,min=0.17439565832416218
+[cycle 13] validate: tn=190,fp=7/tp=4,fn=0. roc=0.9949238578680204,prc=0.8660714285714286
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.1652085781097412,min=0.1673451935251554
+[cycle 14] validate: tn=194,fp=3/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.1504144345720609,min=0.1652085781097412
+[cycle 15] validate: tn=192,fp=5/tp=4,fn=0. roc=0.9974619289340101,prc=0.9083333333333333
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.13755863184730213,min=0.1504144345720609
+[cycle 16] validate: tn=192,fp=5/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.12155349602301915,min=0.13755863184730213
+[cycle 17] validate: tn=193,fp=4/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.12739567831158638,min=0.12155349602301915
+[cycle 18] validate: tn=192,fp=5/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11802741388479869,min=0.12155349602301915
+[cycle 19] validate: tn=192,fp=5/tp=4,fn=0. roc=0.9961928934010152,prc=0.8839285714285714
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.11568278719981512,min=0.11802741388479869
+[cycle 20] validate: tn=178,fp=19/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.0972029743095239,min=0.11568278719981512
+[cycle 21] validate: tn=190,fp=7/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.10222908705472947,min=0.0972029743095239
+[cycle 22] validate: tn=193,fp=4/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.10023257558544477,min=0.0972029743095239
+[cycle 23] validate: tn=194,fp=3/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.08445499036461115,min=0.0972029743095239
+[cycle 24] validate: tn=191,fp=6/tp=4,fn=0. roc=0.9974619289340101,prc=0.9083333333333333
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.07701919364432494,min=0.08445499036461115
+[cycle 25] validate: tn=192,fp=5/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.08822379671037198,min=0.07701919364432494
+[cycle 26] validate: tn=191,fp=6/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.08484667427837848,min=0.07701919364432494
+[cycle 27] validate: tn=192,fp=5/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.06910476889461278,min=0.07701919364432494
+[cycle 28] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.06600077201922734,min=0.06910476889461278
+[cycle 29] validate: tn=192,fp=5/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.07319770113875469,min=0.06600077201922734
+[cycle 30] validate: tn=193,fp=4/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.0742554297670722,min=0.06600077201922734
+[cycle 31] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.054266994011898835,min=0.06600077201922734
+[cycle 32] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.061625147921343645,min=0.054266994011898835
+[cycle 33] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.061423098171750706,min=0.054266994011898835
+[cycle 34] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.05516103419164817,min=0.054266994011898835
+[cycle 35] validate: tn=195,fp=2/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.05661300234496593,min=0.054266994011898835
+[cycle 36] validate: tn=193,fp=4/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.06291220107426246,min=0.054266994011898835
+[cycle 37] validate: tn=196,fp=1/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.059779892675578594,min=0.054266994011898835
+[cycle 38] validate: tn=195,fp=2/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.05788349366436402,min=0.054266994011898835
+[cycle 39] validate: tn=196,fp=1/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.0434190584346652,min=0.054266994011898835
+[cycle 40] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.047748878598213196,min=0.0434190584346652
+[cycle 41] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.046595952038963634,min=0.0434190584346652
+[cycle 42] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.047224458772689104,min=0.0434190584346652
+[cycle 43] validate: tn=193,fp=4/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.053480816539376974,min=0.0434190584346652
+[cycle 44] validate: tn=193,fp=4/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.04778080998609464,min=0.0434190584346652
+[cycle 45] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.03705114061012864,min=0.0434190584346652
+[cycle 46] validate: tn=195,fp=2/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.036800750127683086,min=0.03705114061012864
+[cycle 47] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.039781331550329924,min=0.036800750127683086
+[cycle 48] validate: tn=196,fp=1/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.03983245776034892,min=0.036800750127683086
+[cycle 49] validate: tn=196,fp=1/tp=4,fn=0. roc=1.0,prc=1.0
+[fold 1] test: tn=181,fp=7/tp=5,fn=9
+
+[fold 1] ROC-AUC: 0.8909574468085106
+[fold 1] PRC-AUC: 0.40638721972506325
+fold_2 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6308539619048437,min=1e+100
+[cycle 0] validate: tn=112,fp=86/tp=3,fn=1. roc=0.7449494949494949,prc=0.308321528025556
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.5920433789491654,min=0.6308539619048437
+[cycle 1] validate: tn=122,fp=76/tp=4,fn=0. roc=0.8194444444444444,prc=0.0847059819887866
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.49139516353607177,min=0.5920433789491654
+[cycle 2] validate: tn=140,fp=58/tp=3,fn=1. roc=0.8421717171717172,prc=0.37765641407488015
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.4454081833362579,min=0.49139516353607177
+[cycle 3] validate: tn=161,fp=37/tp=2,fn=2. roc=0.8573232323232324,prc=0.4214729739315738
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.3884598602851232,min=0.4454081833362579
+[cycle 4] validate: tn=169,fp=29/tp=2,fn=2. roc=0.8888888888888888,prc=0.5316682127396413
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.34359760880470275,min=0.3884598602851232
+[cycle 5] validate: tn=177,fp=21/tp=2,fn=2. roc=0.9090909090909091,prc=0.39329631242741
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.3076418270667394,min=0.34359760880470275
+[cycle 6] validate: tn=180,fp=18/tp=2,fn=2. roc=0.9204545454545455,prc=0.5431063165438166
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.2726082762082418,min=0.3076418270667394
+[cycle 7] validate: tn=183,fp=15/tp=2,fn=2. roc=0.9457070707070707,prc=0.5615055958862674
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.24977540522813796,min=0.2726082762082418
+[cycle 8] validate: tn=187,fp=11/tp=2,fn=2. roc=0.957070707070707,prc=0.5742101465785676
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.21622004608313242,min=0.24977540522813796
+[cycle 9] validate: tn=182,fp=16/tp=2,fn=2. roc=0.9570707070707071,prc=0.47201858813700914
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.21797930747270583,min=0.21622004608313242
+[cycle 10] validate: tn=181,fp=17/tp=3,fn=1. roc=0.9583333333333333,prc=0.5761236312706901
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.18946615954240162,min=0.21622004608313242
+[cycle 11] validate: tn=184,fp=14/tp=2,fn=2. roc=0.9608585858585859,prc=0.5802760577915377
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.17910671283801397,min=0.18946615954240162
+[cycle 12] validate: tn=184,fp=14/tp=3,fn=1. roc=0.9659090909090909,prc=0.4885270774976657
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.16823525999983152,min=0.17910671283801397
+[cycle 13] validate: tn=182,fp=16/tp=4,fn=0. roc=0.9659090909090908,prc=0.4889989396568344
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.16724907979369164,min=0.16823525999983152
+[cycle 14] validate: tn=186,fp=12/tp=4,fn=0. roc=0.9722222222222222,prc=0.6059294871794871
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.1611996479332447,min=0.16724907979369164
+[cycle 15] validate: tn=182,fp=16/tp=4,fn=0. roc=0.9772727272727273,prc=0.6236888111888113
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.1480813520650069,min=0.1611996479332447
+[cycle 16] validate: tn=188,fp=10/tp=4,fn=0. roc=0.9772727272727273,prc=0.6236513486513486
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.12671190251906714,min=0.1480813520650069
+[cycle 17] validate: tn=181,fp=17/tp=4,fn=0. roc=0.9810606060606061,prc=0.6410353535353535
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.14560204446315766,min=0.12671190251906714
+[cycle 18] validate: tn=189,fp=9/tp=4,fn=0. roc=0.9772727272727273,prc=0.5246357808857809
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.13196795557936034,min=0.12671190251906714
+[cycle 19] validate: tn=187,fp=11/tp=4,fn=0. roc=0.9861111111111112,prc=0.6882575757575757
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.12174139097332955,min=0.12671190251906714
+[cycle 20] validate: tn=197,fp=1/tp=2,fn=2. roc=0.9785353535353536,prc=0.6288024475524475
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.11681082273523012,min=0.12174139097332955
+[cycle 21] validate: tn=192,fp=6/tp=4,fn=0. roc=0.9898989898989898,prc=0.7149305555555556
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.11694368372360865,min=0.11681082273523012
+[cycle 22] validate: tn=191,fp=7/tp=2,fn=2. roc=0.9797979797979798,prc=0.6349893162393162
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.11204116307199001,min=0.11681082273523012
+[cycle 23] validate: tn=185,fp=13/tp=4,fn=0. roc=0.9924242424242424,prc=0.7464285714285714
+[fold 2] test: tn=186,fp=11/tp=2,fn=2
+
+[fold 2] ROC-AUC: 0.7918781725888325
+[fold 2] PRC-AUC: 0.21525888864317655
+fold_3 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6285504539807637,min=1e+100
+[cycle 0] validate: tn=73,fp=122/tp=6,fn=0. roc=0.9316239316239315,prc=0.4021692557590727
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.6053053657213847,min=0.6285504539807637
+[cycle 1] validate: tn=140,fp=55/tp=5,fn=1. roc=0.8581196581196581,prc=0.3266269443001423
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5195364902416865,min=0.6053053657213847
+[cycle 2] validate: tn=134,fp=61/tp=6,fn=0. roc=0.9418803418803419,prc=0.5680512186659727
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.4693102469046911,min=0.5195364902416865
+[cycle 3] validate: tn=150,fp=45/tp=6,fn=0. roc=0.9547008547008546,prc=0.659269252572824
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.41439961194992064,min=0.4693102469046911
+[cycle 4] validate: tn=156,fp=39/tp=6,fn=0. roc=0.9564102564102565,prc=0.6502128067917541
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.38085339268048607,min=0.41439961194992064
+[cycle 5] validate: tn=170,fp=25/tp=6,fn=0. roc=0.9675213675213675,prc=0.5788669743411122
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.32201954821745554,min=0.38085339268048607
+[cycle 6] validate: tn=165,fp=30/tp=5,fn=1. roc=0.9615384615384615,prc=0.70121598065677
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.2929650311668714,min=0.32201954821745554
+[cycle 7] validate: tn=164,fp=31/tp=6,fn=0. roc=0.9692307692307691,prc=0.7395880191932823
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.26019577781359354,min=0.2929650311668714
+[cycle 8] validate: tn=174,fp=21/tp=6,fn=0. roc=0.9709401709401709,prc=0.7090539634657281
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.22075820018847783,min=0.26019577781359354
+[cycle 9] validate: tn=175,fp=20/tp=6,fn=0. roc=0.9794871794871794,prc=0.7249377836334358
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.20718613117933274,min=0.22075820018847783
+[cycle 10] validate: tn=177,fp=18/tp=6,fn=0. roc=0.9811965811965812,prc=0.736087061087061
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.18844903086622555,min=0.20718613117933274
+[cycle 11] validate: tn=177,fp=18/tp=6,fn=0. roc=0.982905982905983,prc=0.7848086124401914
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.1626625103255113,min=0.18844903086622555
+[cycle 12] validate: tn=178,fp=17/tp=6,fn=0. roc=0.9888888888888889,prc=0.781054131054131
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.1659994142750899,min=0.1626625103255113
+[cycle 13] validate: tn=175,fp=20/tp=6,fn=0. roc=0.9905982905982906,prc=0.8341346153846153
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.1298408553004265,min=0.1626625103255113
+[cycle 14] validate: tn=179,fp=16/tp=6,fn=0. roc=0.9931623931623932,prc=0.8534902597402596
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.13850093384583792,min=0.1298408553004265
+[cycle 15] validate: tn=182,fp=13/tp=6,fn=0. roc=0.9931623931623931,prc=0.8509259259259259
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.12805413603782653,min=0.1298408553004265
+[cycle 16] validate: tn=176,fp=19/tp=6,fn=0. roc=0.9948717948717949,prc=0.878042328042328
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.1170815738538901,min=0.12805413603782653
+[cycle 17] validate: tn=185,fp=10/tp=6,fn=0. roc=0.9940170940170939,prc=0.8626653439153438
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.10236774558822313,min=0.1170815738538901
+[cycle 18] validate: tn=182,fp=13/tp=6,fn=0. roc=0.9982905982905983,prc=0.9436507936507936
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11338621800144513,min=0.10236774558822313
+[cycle 19] validate: tn=176,fp=19/tp=6,fn=0. roc=0.9965811965811966,prc=0.9037698412698413
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.1060074812422196,min=0.10236774558822313
+[cycle 20] validate: tn=184,fp=11/tp=6,fn=0. roc=0.9974358974358974,prc=0.9409722222222222
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.08228945334752401,min=0.10236774558822313
+[cycle 21] validate: tn=187,fp=8/tp=6,fn=0. roc=0.9982905982905983,prc=0.9436507936507936
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.09441486845413843,min=0.08228945334752401
+[cycle 22] validate: tn=188,fp=7/tp=6,fn=0. roc=0.9957264957264957,prc=0.8893849206349206
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.08545749820768833,min=0.08228945334752401
+[cycle 23] validate: tn=182,fp=13/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.11057111006230116,min=0.08228945334752401
+[cycle 24] validate: tn=187,fp=8/tp=6,fn=0. roc=0.9965811965811966,prc=0.9037698412698413
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.07348133412500223,min=0.08228945334752401
+[cycle 25] validate: tn=187,fp=8/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.08233602233231067,min=0.07348133412500223
+[cycle 26] validate: tn=193,fp=2/tp=5,fn=1. roc=0.9982905982905983,prc=0.9553571428571429
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.0909707964087526,min=0.07348133412500223
+[cycle 27] validate: tn=190,fp=5/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.06766242434581121,min=0.07348133412500223
+[cycle 28] validate: tn=183,fp=12/tp=6,fn=0. roc=0.9982905982905983,prc=0.9436507936507936
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.07072251252830028,min=0.06766242434581121
+[cycle 29] validate: tn=186,fp=9/tp=6,fn=0. roc=0.9982905982905983,prc=0.9436507936507936
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.06532944682985545,min=0.06766242434581121
+[cycle 30] validate: tn=191,fp=4/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.06718121686329444,min=0.06532944682985545
+[cycle 31] validate: tn=187,fp=8/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.05965408167491357,min=0.06532944682985545
+[cycle 32] validate: tn=184,fp=11/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.05793441720306873,min=0.05965408167491357
+[cycle 33] validate: tn=190,fp=5/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.05853315107524395,min=0.05793441720306873
+[cycle 34] validate: tn=192,fp=3/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.06705422475934028,min=0.05793441720306873
+[cycle 35] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.05013486246267954,min=0.05793441720306873
+[cycle 36] validate: tn=190,fp=5/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.05707079327354828,min=0.05013486246267954
+[cycle 37] validate: tn=190,fp=5/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.050821237886945404,min=0.05013486246267954
+[cycle 38] validate: tn=194,fp=1/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.04001279218743245,min=0.05013486246267954
+[cycle 39] validate: tn=191,fp=4/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.05187143000463645,min=0.04001279218743245
+[cycle 40] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.04339195713400841,min=0.04001279218743245
+[cycle 41] validate: tn=192,fp=3/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.039469771459698676,min=0.04001279218743245
+[cycle 42] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.04829808666060368,min=0.039469771459698676
+[cycle 43] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.03174262773245573,min=0.039469771459698676
+[cycle 44] validate: tn=191,fp=4/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.049413277643422286,min=0.03174262773245573
+[cycle 45] validate: tn=194,fp=1/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.04885225941737493,min=0.03174262773245573
+[cycle 46] validate: tn=194,fp=1/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.03536401161303123,min=0.03174262773245573
+[cycle 47] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.03832870703190565,min=0.03174262773245573
+[cycle 48] validate: tn=194,fp=1/tp=6,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.03401939185957114,min=0.03174262773245573
+[cycle 49] validate: tn=193,fp=2/tp=6,fn=0. roc=1.0,prc=1.0
+[fold 3] test: tn=196,fp=2/tp=0,fn=4
+
+[fold 3] ROC-AUC: 0.5214646464646465
+[fold 3] PRC-AUC: 0.02225022217418539
+fold_4 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6428244252999623,min=1e+100
+[cycle 0] validate: tn=108,fp=90/tp=2,fn=1. roc=0.7592592592592592,prc=0.048320006663335
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.6350293676058452,min=0.6428244252999623
+[cycle 1] validate: tn=109,fp=89/tp=2,fn=1. roc=0.7188552188552189,prc=0.028518902011188126
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5410974691311519,min=0.6350293676058452
+[cycle 2] validate: tn=152,fp=46/tp=3,fn=0. roc=0.8939393939393939,prc=0.07336829836829836
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.4750230640172958,min=0.5410974691311519
+[cycle 3] validate: tn=139,fp=59/tp=3,fn=0. roc=0.9242424242424243,prc=0.09100276963180189
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.429405203461647,min=0.4750230640172958
+[cycle 4] validate: tn=174,fp=24/tp=2,fn=1. roc=0.930976430976431,prc=0.11566340245775729
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.3917584846417109,min=0.429405203461647
+[cycle 5] validate: tn=174,fp=24/tp=2,fn=1. roc=0.9511784511784511,prc=0.22186948853615518
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.33896998564402264,min=0.3917584846417109
+[cycle 6] validate: tn=175,fp=23/tp=2,fn=1. roc=0.9410774410774411,prc=0.21647355912061794
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.31774346182743707,min=0.33896998564402264
+[cycle 7] validate: tn=175,fp=23/tp=3,fn=0. roc=0.9612794612794613,prc=0.21269841269841266
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.26895627280076345,min=0.31774346182743707
+[cycle 8] validate: tn=184,fp=14/tp=2,fn=1. roc=0.9595959595959597,prc=0.2108225108225108
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.24924560387929282,min=0.26895627280076345
+[cycle 9] validate: tn=182,fp=16/tp=2,fn=1. roc=0.9612794612794613,prc=0.21269841269841266
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.22124331494172414,min=0.24924560387929282
+[cycle 10] validate: tn=173,fp=25/tp=3,fn=0. roc=0.9696969696969697,prc=0.4724673202614379
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.18706798056761423,min=0.22124331494172414
+[cycle 11] validate: tn=179,fp=19/tp=3,fn=0. roc=0.9646464646464646,prc=0.4535644667223614
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.18241690148909886,min=0.18706798056761423
+[cycle 12] validate: tn=180,fp=18/tp=3,fn=0. roc=0.9713804713804713,prc=0.46016483516483514
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.16722132836778958,min=0.18241690148909886
+[cycle 13] validate: tn=181,fp=17/tp=3,fn=0. roc=0.968013468013468,prc=0.452281746031746
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.14896265467007955,min=0.16722132836778958
+[cycle 14] validate: tn=180,fp=18/tp=3,fn=0. roc=0.9713804713804713,prc=0.46016483516483514
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.15050380205114683,min=0.14896265467007955
+[cycle 15] validate: tn=180,fp=18/tp=3,fn=0. roc=0.9696969696969696,prc=0.45595238095238094
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.1364504208167394,min=0.14896265467007955
+[cycle 16] validate: tn=186,fp=12/tp=3,fn=0. roc=0.9747474747474748,prc=0.47077922077922074
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.13767112766702969,min=0.1364504208167394
+[cycle 17] validate: tn=180,fp=18/tp=3,fn=0. roc=0.9764309764309764,prc=0.5293650793650793
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.12503309001525242,min=0.1364504208167394
+[cycle 18] validate: tn=179,fp=19/tp=3,fn=0. roc=0.9713804713804713,prc=0.4658730158730158
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11654305619498094,min=0.12503309001525242
+[cycle 19] validate: tn=185,fp=13/tp=3,fn=0. roc=0.9814814814814815,prc=0.5059523809523809
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.11959516828258833,min=0.11654305619498094
+[cycle 20] validate: tn=182,fp=16/tp=3,fn=0. roc=0.9764309764309764,prc=0.48846153846153845
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.10071463063359261,min=0.11654305619498094
+[cycle 21] validate: tn=178,fp=20/tp=3,fn=0. roc=0.9730639730639731,prc=0.4793650793650793
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.11425050149361292,min=0.10071463063359261
+[cycle 22] validate: tn=182,fp=16/tp=3,fn=0. roc=0.9797979797979799,prc=0.501010101010101
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.10590230400363604,min=0.10071463063359261
+[cycle 23] validate: tn=184,fp=14/tp=3,fn=0. roc=0.9797979797979799,prc=0.5136363636363637
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.0924162033945322,min=0.10071463063359261
+[cycle 24] validate: tn=182,fp=16/tp=3,fn=0. roc=0.9797979797979798,prc=0.49576719576719575
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.09621429691712062,min=0.0924162033945322
+[cycle 25] validate: tn=186,fp=12/tp=3,fn=0. roc=0.9831649831649831,prc=0.5188492063492063
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.08266069237142801,min=0.0924162033945322
+[cycle 26] validate: tn=185,fp=13/tp=3,fn=0. roc=0.9865319865319866,prc=0.5694444444444444
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.08668469650050005,min=0.08266069237142801
+[cycle 27] validate: tn=183,fp=15/tp=3,fn=0. roc=0.9865319865319866,prc=0.5694444444444444
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.09305645935237408,min=0.08266069237142801
+[cycle 28] validate: tn=183,fp=15/tp=3,fn=0. roc=0.9797979797979798,prc=0.49576719576719575
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.08390100703885157,min=0.08266069237142801
+[cycle 29] validate: tn=188,fp=10/tp=3,fn=0. roc=0.9848484848484848,prc=0.5323412698412698
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.07433761823922395,min=0.08266069237142801
+[cycle 30] validate: tn=185,fp=13/tp=3,fn=0. roc=0.9848484848484849,prc=0.5388888888888889
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.08343934013197819,min=0.07433761823922395
+[cycle 31] validate: tn=186,fp=12/tp=3,fn=0. roc=0.9898989898989898,prc=0.5992063492063492
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.06988789613048235,min=0.07433761823922395
+[cycle 32] validate: tn=187,fp=11/tp=3,fn=0. roc=0.9882154882154882,prc=0.5823412698412699
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.07389341325809558,min=0.06988789613048235
+[cycle 33] validate: tn=189,fp=9/tp=3,fn=0. roc=0.9915824915824916,prc=0.6547619047619047
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.07623566761612892,min=0.06988789613048235
+[cycle 34] validate: tn=184,fp=14/tp=3,fn=0. roc=0.9915824915824916,prc=0.6222222222222222
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.06613123305141926,min=0.06988789613048235
+[cycle 35] validate: tn=187,fp=11/tp=3,fn=0. roc=0.9915824915824916,prc=0.6222222222222222
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.06445236237098774,min=0.06613123305141926
+[cycle 36] validate: tn=185,fp=13/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.06371557166179022,min=0.06445236237098774
+[cycle 37] validate: tn=186,fp=12/tp=3,fn=0. roc=0.9898989898989898,prc=0.6378968253968254
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.07276423325141271,min=0.06371557166179022
+[cycle 38] validate: tn=188,fp=10/tp=3,fn=0. roc=0.9882154882154882,prc=0.625
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.05643656936784585,min=0.06371557166179022
+[cycle 39] validate: tn=187,fp=11/tp=3,fn=0. roc=0.994949494949495,prc=0.711111111111111
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.06382652080307404,min=0.05643656936784585
+[cycle 40] validate: tn=191,fp=7/tp=3,fn=0. roc=0.994949494949495,prc=0.711111111111111
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.04787517798443635,min=0.05643656936784585
+[cycle 41] validate: tn=186,fp=12/tp=3,fn=0. roc=0.9932659932659933,prc=0.6555555555555556
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.05636574092010657,min=0.04787517798443635
+[cycle 42] validate: tn=187,fp=11/tp=3,fn=0. roc=0.994949494949495,prc=0.711111111111111
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.06377352364361286,min=0.04787517798443635
+[cycle 43] validate: tn=187,fp=11/tp=3,fn=0. roc=0.9932659932659933,prc=0.6777777777777778
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.057621655675272145,min=0.04787517798443635
+[cycle 44] validate: tn=194,fp=4/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.04276563165088495,min=0.04787517798443635
+[cycle 45] validate: tn=192,fp=6/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.05100868977606297,min=0.04276563165088495
+[cycle 46] validate: tn=195,fp=3/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.054558612095812954,min=0.04276563165088495
+[cycle 47] validate: tn=196,fp=2/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.050446109970410664,min=0.04276563165088495
+[cycle 48] validate: tn=191,fp=7/tp=3,fn=0. roc=0.9983164983164983,prc=0.9027777777777777
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.044268984471758206,min=0.04276563165088495
+[cycle 49] validate: tn=195,fp=3/tp=3,fn=0. roc=0.9966329966329966,prc=0.7638888888888888
+[fold 4] test: tn=193,fp=2/tp=4,fn=2
+
+[fold 4] ROC-AUC: 0.8632478632478634
+[fold 4] PRC-AUC: 0.7111328957050462
+fold_5 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.7044495801130931,min=1e+100
+[cycle 0] validate: tn=214,fp=60/tp=1,fn=3. roc=0.48631386861313874,prc=0.015020118022079696
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.5991154869397481,min=0.7044495801130931
+[cycle 1] validate: tn=246,fp=28/tp=1,fn=3. roc=0.5802919708029197,prc=0.029747975202311497
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5406424075365066,min=0.5991154869397481
+[cycle 2] validate: tn=259,fp=15/tp=1,fn=3. roc=0.6970802919708029,prc=0.04139617038374873
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.48764550884564717,min=0.5406424075365066
+[cycle 3] validate: tn=270,fp=4/tp=1,fn=3. roc=0.8531021897810218,prc=0.07386061292289894
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.4274263362089793,min=0.48764550884564717
+[cycle 4] validate: tn=267,fp=7/tp=0,fn=4. roc=0.9178832116788321,prc=0.10212451491632306
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.37066062688827517,min=0.4274263362089793
+[cycle 5] validate: tn=266,fp=8/tp=2,fn=2. roc=0.9434306569343066,prc=0.14628415865407077
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.32065942833820976,min=0.37066062688827517
+[cycle 6] validate: tn=269,fp=5/tp=2,fn=2. roc=0.958029197080292,prc=0.3895687083187083
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.280965630710125,min=0.32065942833820976
+[cycle 7] validate: tn=267,fp=7/tp=2,fn=2. roc=0.9635036496350365,prc=0.3933173866363522
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.24456179986397425,min=0.280965630710125
+[cycle 8] validate: tn=267,fp=7/tp=3,fn=1. roc=0.9662408759124087,prc=0.4115421455938697
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.22578751295804977,min=0.24456179986397425
+[cycle 9] validate: tn=268,fp=6/tp=2,fn=2. roc=0.9762773722627738,prc=0.604062362758015
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.20866034626960756,min=0.22578751295804977
+[cycle 10] validate: tn=268,fp=6/tp=3,fn=1. roc=0.9835766423357665,prc=0.6354385504201681
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.184660467505455,min=0.20866034626960756
+[cycle 11] validate: tn=267,fp=7/tp=3,fn=1. roc=0.9854014598540146,prc=0.6427083333333333
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.18431613395611446,min=0.184660467505455
+[cycle 12] validate: tn=267,fp=7/tp=4,fn=0. roc=0.989963503649635,prc=0.6781926406926406
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.16783194094896317,min=0.18431613395611446
+[cycle 13] validate: tn=269,fp=5/tp=4,fn=0. roc=0.9917883211678832,prc=0.6976686507936508
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.15316362058122954,min=0.16783194094896317
+[cycle 14] validate: tn=268,fp=6/tp=4,fn=0. roc=0.9917883211678832,prc=0.6976686507936508
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.15802337328592936,min=0.15316362058122954
+[cycle 15] validate: tn=266,fp=8/tp=4,fn=0. roc=0.9963503649635037,prc=0.7958333333333334
+[fold 5] test: tn=176,fp=22/tp=1,fn=2
+
+[fold 5] ROC-AUC: 0.5420875420875421
+[fold 5] PRC-AUC: 0.3429344882332257
+fold_6 is running
+batch_per_epoch=29
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6563721710237963,min=1e+100
+[cycle 0] validate: tn=141,fp=66/tp=0,fn=1. roc=0.6328502415458936,prc=0.006493506493506494
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.5712358746035345,min=0.6563721710237963
+[cycle 1] validate: tn=169,fp=38/tp=1,fn=0. roc=0.8743961352657005,prc=0.018518518518518517
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5190641561458851,min=0.5712358746035345
+[cycle 2] validate: tn=179,fp=28/tp=1,fn=0. roc=0.8647342995169083,prc=0.017241379310344827
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.4736749766201809,min=0.5190641561458851
+[cycle 3] validate: tn=181,fp=26/tp=1,fn=0. roc=0.9178743961352657,prc=0.027777777777777776
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.4330581683537056,min=0.4736749766201809
+[cycle 4] validate: tn=193,fp=14/tp=1,fn=0. roc=0.9516908212560387,prc=0.045454545454545456
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.3968310818589967,min=0.4330581683537056
+[cycle 5] validate: tn=186,fp=21/tp=1,fn=0. roc=0.9516908212560387,prc=0.045454545454545456
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.348435647528747,min=0.3968310818589967
+[cycle 6] validate: tn=193,fp=14/tp=1,fn=0. roc=0.9903381642512077,prc=0.16666666666666666
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.30869277746512974,min=0.348435647528747
+[cycle 7] validate: tn=186,fp=21/tp=1,fn=0. roc=0.9855072463768116,prc=0.125
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.26483647165627316,min=0.30869277746512974
+[cycle 8] validate: tn=193,fp=14/tp=1,fn=0. roc=0.9903381642512077,prc=0.16666666666666666
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.24756423769326047,min=0.26483647165627316
+[cycle 9] validate: tn=195,fp=12/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.20689027062777815,min=0.24756423769326047
+[cycle 10] validate: tn=200,fp=7/tp=1,fn=0. roc=0.9903381642512077,prc=0.16666666666666666
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.2048953304003025,min=0.20689027062777815
+[cycle 11] validate: tn=199,fp=8/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.18022663171949058,min=0.2048953304003025
+[cycle 12] validate: tn=197,fp=10/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.16109282780310202,min=0.18022663171949058
+[cycle 13] validate: tn=201,fp=6/tp=1,fn=0. roc=0.9903381642512077,prc=0.16666666666666666
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.16390432083401188,min=0.16109282780310202
+[cycle 14] validate: tn=202,fp=5/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.15601415855103526,min=0.16109282780310202
+[cycle 15] validate: tn=201,fp=6/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.13059123541260587,min=0.15601415855103526
+[cycle 16] validate: tn=199,fp=8/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.12816370895196652,min=0.13059123541260587
+[cycle 17] validate: tn=201,fp=6/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.12096970875201554,min=0.12816370895196652
+[cycle 18] validate: tn=202,fp=5/tp=1,fn=0. roc=0.9951690821256038,prc=0.25
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11171594274968936,min=0.12096970875201554
+[cycle 19] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.12556225164183255,min=0.11171594274968936
+[cycle 20] validate: tn=201,fp=6/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.11896763973194978,min=0.11171594274968936
+[cycle 21] validate: tn=203,fp=4/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.12656388033566804,min=0.11171594274968936
+[cycle 22] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.09953255180654855,min=0.11171594274968936
+[cycle 23] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.0976294731271678,min=0.09953255180654855
+[cycle 24] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.09581543042741973,min=0.0976294731271678
+[cycle 25] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.08845456920821092,min=0.09581543042741973
+[cycle 26] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.08678991379665918,min=0.08845456920821092
+[cycle 27] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.09209039139336553,min=0.08678991379665918
+[cycle 28] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.08393414524094812,min=0.08678991379665918
+[cycle 29] validate: tn=202,fp=5/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.08058927619251711,min=0.08393414524094812
+[cycle 30] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.08576376697626607,min=0.08058927619251711
+[cycle 31] validate: tn=205,fp=2/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.06913119721515425,min=0.08058927619251711
+[cycle 32] validate: tn=203,fp=4/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.07399405564727454,min=0.06913119721515425
+[cycle 33] validate: tn=203,fp=4/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.07931211231083705,min=0.06913119721515425
+[cycle 34] validate: tn=203,fp=4/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.06556172816660898,min=0.06913119721515425
+[cycle 35] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.05434061843773414,min=0.06556172816660898
+[cycle 36] validate: tn=203,fp=4/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.07290706770687268,min=0.05434061843773414
+[cycle 37] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.0685132626315643,min=0.05434061843773414
+[cycle 38] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.05674420566908244,min=0.05434061843773414
+[cycle 39] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.06604156887222981,min=0.05434061843773414
+[cycle 40] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.054891382890014814,min=0.05434061843773414
+[cycle 41] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.06113907836120704,min=0.05434061843773414
+[cycle 42] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.05260261308787198,min=0.05434061843773414
+[cycle 43] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.045971795338495026,min=0.05260261308787198
+[cycle 44] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.0601226886541679,min=0.045971795338495026
+[cycle 45] validate: tn=205,fp=2/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.051445752446507585,min=0.045971795338495026
+[cycle 46] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.05439943640396513,min=0.045971795338495026
+[cycle 47] validate: tn=207,fp=0/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.05177833480310851,min=0.045971795338495026
+[cycle 48] validate: tn=206,fp=1/tp=1,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.04886411567186487,min=0.045971795338495026
+[cycle 49] validate: tn=207,fp=0/tp=1,fn=0. roc=1.0,prc=1.0
+[fold 6] test: tn=269,fp=5/tp=0,fn=4
+
+[fold 6] ROC-AUC: 0.42700729927007297
+[fold 6] PRC-AUC: 0.02012534041328691
+fold_7 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.6699332177639008,min=1e+100
+[cycle 0] validate: tn=144,fp=53/tp=3,fn=1. roc=0.7614213197969544,prc=0.03743924663166702
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.5676924556493759,min=0.6699332177639008
+[cycle 1] validate: tn=139,fp=58/tp=4,fn=0. roc=0.9441624365482234,prc=0.16606956262128678
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5200789541006088,min=0.5676924556493759
+[cycle 2] validate: tn=138,fp=59/tp=4,fn=0. roc=0.9378172588832487,prc=0.13772749042145593
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.46498052378495536,min=0.5200789541006088
+[cycle 3] validate: tn=141,fp=56/tp=4,fn=0. roc=0.9581218274111675,prc=0.1893849206349206
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.43043047984441124,min=0.46498052378495536
+[cycle 4] validate: tn=153,fp=44/tp=4,fn=0. roc=0.9530456852791878,prc=0.1719426406926407
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.3923863043387731,min=0.43043047984441124
+[cycle 5] validate: tn=159,fp=38/tp=4,fn=0. roc=0.9784263959390863,prc=0.31534090909090906
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.3479042281707128,min=0.3923863043387731
+[cycle 6] validate: tn=154,fp=43/tp=4,fn=0. roc=0.9898477157360406,prc=0.45476190476190476
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.32275577584902443,min=0.3479042281707128
+[cycle 7] validate: tn=150,fp=47/tp=4,fn=0. roc=0.9923857868020304,prc=0.5193452380952381
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.28819516847531,min=0.32275577584902443
+[cycle 8] validate: tn=165,fp=32/tp=4,fn=0. roc=0.9936548223350253,prc=0.54375
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.25836670845746995,min=0.28819516847531
+[cycle 9] validate: tn=158,fp=39/tp=4,fn=0. roc=0.9949238578680203,prc=0.5791666666666666
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.23697144091129302,min=0.25836670845746995
+[cycle 10] validate: tn=170,fp=27/tp=4,fn=0. roc=0.9923857868020304,prc=0.5041666666666667
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.21915944665670395,min=0.23697144091129302
+[cycle 11] validate: tn=170,fp=27/tp=4,fn=0. roc=0.9949238578680203,prc=0.5791666666666666
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.2023828521370888,min=0.21915944665670395
+[cycle 12] validate: tn=174,fp=23/tp=4,fn=0. roc=0.9936548223350253,prc=0.7068452380952381
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.18631630043188732,min=0.2023828521370888
+[cycle 13] validate: tn=178,fp=19/tp=4,fn=0. roc=0.9974619289340101,prc=0.8708333333333333
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.18105004553993542,min=0.18631630043188732
+[cycle 14] validate: tn=181,fp=16/tp=4,fn=0. roc=0.9961928934010152,prc=0.8354166666666667
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.17012094060579935,min=0.18105004553993542
+[cycle 15] validate: tn=187,fp=10/tp=4,fn=0. roc=0.9949238578680203,prc=0.8110119047619048
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.16008822346727053,min=0.17012094060579935
+[cycle 16] validate: tn=173,fp=24/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.14355553835630416,min=0.16008822346727053
+[cycle 17] validate: tn=179,fp=18/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.14079844703276953,min=0.14355553835630416
+[cycle 18] validate: tn=181,fp=16/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.12292545090119043,min=0.14079844703276953
+[cycle 19] validate: tn=167,fp=30/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.1389619765182336,min=0.12292545090119043
+[cycle 20] validate: tn=184,fp=13/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.12879087626934052,min=0.12292545090119043
+[cycle 21] validate: tn=185,fp=12/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.11605254213015238,min=0.12292545090119043
+[cycle 22] validate: tn=187,fp=10/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.1159892812371254,min=0.11605254213015238
+[cycle 23] validate: tn=182,fp=15/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.10567846782505512,min=0.1159892812371254
+[cycle 24] validate: tn=184,fp=13/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.10247288048267364,min=0.10567846782505512
+[cycle 25] validate: tn=189,fp=8/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.10297555004556974,min=0.10247288048267364
+[cycle 26] validate: tn=185,fp=12/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.09773734621703625,min=0.10247288048267364
+[cycle 27] validate: tn=183,fp=14/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.09650297251840433,min=0.09773734621703625
+[cycle 28] validate: tn=177,fp=20/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.0904257652660211,min=0.09650297251840433
+[cycle 29] validate: tn=183,fp=14/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.08915809032817681,min=0.0904257652660211
+[cycle 30] validate: tn=181,fp=16/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.08502468752364317,min=0.08915809032817681
+[cycle 31] validate: tn=178,fp=19/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.07941311324636141,min=0.08502468752364317
+[cycle 32] validate: tn=186,fp=11/tp=4,fn=0. roc=0.998730964467005,prc=0.94375
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.10146900527179241,min=0.07941311324636141
+[cycle 33] validate: tn=188,fp=9/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.0731904832025369,min=0.07941311324636141
+[cycle 34] validate: tn=185,fp=12/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.07969770524650813,min=0.0731904832025369
+[cycle 35] validate: tn=183,fp=14/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.07393295150250197,min=0.0731904832025369
+[cycle 36] validate: tn=188,fp=9/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.0756609732285142,min=0.0731904832025369
+[cycle 37] validate: tn=191,fp=6/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.06438603854427735,min=0.0731904832025369
+[cycle 38] validate: tn=188,fp=9/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.0621086522936821,min=0.06438603854427735
+[cycle 39] validate: tn=186,fp=11/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.06687293760478497,min=0.0621086522936821
+[cycle 40] validate: tn=185,fp=12/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.06710839979350566,min=0.0621086522936821
+[cycle 41] validate: tn=186,fp=11/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.04980296026915312,min=0.0621086522936821
+[cycle 42] validate: tn=190,fp=7/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.07062240280210971,min=0.04980296026915312
+[cycle 43] validate: tn=191,fp=6/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.05258427715549866,min=0.04980296026915312
+[cycle 44] validate: tn=189,fp=8/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.06222482187052568,min=0.04980296026915312
+[cycle 45] validate: tn=189,fp=8/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.06173000236352285,min=0.04980296026915312
+[cycle 46] validate: tn=189,fp=8/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.055215790619452795,min=0.04980296026915312
+[cycle 47] validate: tn=194,fp=3/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.052206963300704956,min=0.04980296026915312
+[cycle 48] validate: tn=188,fp=9/tp=4,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.05331271141767502,min=0.04980296026915312
+[cycle 49] validate: tn=188,fp=9/tp=4,fn=0. roc=1.0,prc=1.0
+[fold 7] test: tn=194,fp=13/tp=0,fn=1
+
+[fold 7] ROC-AUC: 0.45410628019323673
+[fold 7] PRC-AUC: 0.0043859649122807015
+fold_8 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.674484392007192,min=1e+100
+[cycle 0] validate: tn=126,fp=73/tp=2,fn=1. roc=0.8023450586264655,prc=0.22930851320681828
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.573754436771075,min=0.674484392007192
+[cycle 1] validate: tn=145,fp=54/tp=2,fn=1. roc=0.7638190954773869,prc=0.05895191409897292
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5399946987628936,min=0.573754436771075
+[cycle 2] validate: tn=135,fp=64/tp=2,fn=1. roc=0.8375209380234506,prc=0.10060956001967236
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.48306452929973603,min=0.5399946987628936
+[cycle 3] validate: tn=136,fp=63/tp=2,fn=1. roc=0.8860971524288107,prc=0.1849261849261849
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.45342625776926676,min=0.48306452929973603
+[cycle 4] validate: tn=145,fp=54/tp=3,fn=0. roc=0.931323283082077,prc=0.19381466486729643
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.4090811957915624,min=0.45342625776926676
+[cycle 5] validate: tn=140,fp=59/tp=3,fn=0. roc=0.9597989949748744,prc=0.5603418803418803
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.3770112097263336,min=0.4090811957915624
+[cycle 6] validate: tn=161,fp=38/tp=3,fn=0. roc=0.9748743718592965,prc=0.5256944444444445
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.3327386170625687,min=0.3770112097263336
+[cycle 7] validate: tn=177,fp=22/tp=3,fn=0. roc=0.9849246231155779,prc=0.6065656565656565
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.2871277535955111,min=0.3327386170625687
+[cycle 8] validate: tn=166,fp=33/tp=3,fn=0. roc=0.9865996649916248,prc=0.5492063492063493
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.26246788998444875,min=0.2871277535955111
+[cycle 9] validate: tn=183,fp=16/tp=3,fn=0. roc=0.9798994974874372,prc=0.5384615384615384
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.23209055264790854,min=0.26246788998444875
+[cycle 10] validate: tn=183,fp=16/tp=3,fn=0. roc=0.983249581239531,prc=0.5997474747474747
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.2175497020284335,min=0.23209055264790854
+[cycle 11] validate: tn=178,fp=21/tp=3,fn=0. roc=0.9815745393634842,prc=0.5204545454545455
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.19090082943439485,min=0.2175497020284335
+[cycle 12] validate: tn=185,fp=14/tp=3,fn=0. roc=0.9865996649916248,prc=0.5694444444444444
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.16457314069072407,min=0.19090082943439485
+[cycle 13] validate: tn=185,fp=14/tp=3,fn=0. roc=0.9899497487437187,prc=0.5992063492063492
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.15840179324150086,min=0.16457314069072407
+[cycle 14] validate: tn=183,fp=16/tp=3,fn=0. roc=0.9882747068676717,prc=0.625
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.14865072866280873,min=0.15840179324150086
+[cycle 15] validate: tn=184,fp=15/tp=3,fn=0. roc=0.9916247906197655,prc=0.6547619047619047
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.1320185420413812,min=0.14865072866280873
+[cycle 16] validate: tn=185,fp=14/tp=3,fn=0. roc=0.9882747068676717,prc=0.5686507936507936
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.13481050158540409,min=0.1320185420413812
+[cycle 17] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9865996649916248,prc=0.5517857142857143
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.1278098444143931,min=0.1320185420413812
+[cycle 18] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9932998324958123,prc=0.6555555555555556
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.11731285527348519,min=0.1278098444143931
+[cycle 19] validate: tn=188,fp=11/tp=3,fn=0. roc=0.9916247906197655,prc=0.6547619047619047
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.11512053621311982,min=0.11731285527348519
+[cycle 20] validate: tn=187,fp=12/tp=3,fn=0. roc=0.9932998324958123,prc=0.6555555555555556
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.10410565758744876,min=0.11512053621311982
+[cycle 21] validate: tn=189,fp=10/tp=3,fn=0. roc=0.9916247906197655,prc=0.6547619047619047
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.09558685657878717,min=0.10410565758744876
+[cycle 22] validate: tn=188,fp=11/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.09915287271142006,min=0.09558685657878717
+[cycle 23] validate: tn=189,fp=10/tp=3,fn=0. roc=0.9932998324958123,prc=0.6555555555555556
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.09658913190166156,min=0.09558685657878717
+[cycle 24] validate: tn=190,fp=9/tp=3,fn=0. roc=0.9916247906197655,prc=0.6547619047619047
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.08209774817029634,min=0.09558685657878717
+[cycle 25] validate: tn=190,fp=9/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.08095939656098684,min=0.08209774817029634
+[cycle 26] validate: tn=190,fp=9/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.07845362449685732,min=0.08095939656098684
+[cycle 27] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.07543690813084443,min=0.07845362449685732
+[cycle 28] validate: tn=190,fp=9/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.07266753936807314,min=0.07543690813084443
+[cycle 29] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.0843600993975997,min=0.07266753936807314
+[cycle 30] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.07346167458842198,min=0.07266753936807314
+[cycle 31] validate: tn=193,fp=6/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.06003259991606077,min=0.07266753936807314
+[cycle 32] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.06044356313844522,min=0.06003259991606077
+[cycle 33] validate: tn=192,fp=7/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.06702685089161,min=0.06003259991606077
+[cycle 34] validate: tn=190,fp=9/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.0576499804854393,min=0.06003259991606077
+[cycle 35] validate: tn=192,fp=7/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.05718779570112626,min=0.0576499804854393
+[cycle 36] validate: tn=194,fp=5/tp=3,fn=0. roc=0.9966499162479062,prc=0.7638888888888888
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.05429838417718808,min=0.05718779570112626
+[cycle 37] validate: tn=193,fp=6/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.052205320447683334,min=0.05429838417718808
+[cycle 38] validate: tn=191,fp=8/tp=3,fn=0. roc=0.9966499162479061,prc=0.8500000000000001
+train_fold_cycle: 39
+[cycle 39] train:    loss=0.045385093924899894,min=0.052205320447683334
+[cycle 39] validate: tn=192,fp=7/tp=3,fn=0. roc=0.998324958123953,prc=0.9027777777777777
+train_fold_cycle: 40
+[cycle 40] train:    loss=0.051242715182403725,min=0.045385093924899894
+[cycle 40] validate: tn=192,fp=7/tp=3,fn=0. roc=0.998324958123953,prc=0.9027777777777777
+train_fold_cycle: 41
+[cycle 41] train:    loss=0.04027736509839694,min=0.045385093924899894
+[cycle 41] validate: tn=193,fp=6/tp=3,fn=0. roc=0.998324958123953,prc=0.9027777777777777
+train_fold_cycle: 42
+[cycle 42] train:    loss=0.04463436870525281,min=0.04027736509839694
+[cycle 42] validate: tn=192,fp=7/tp=3,fn=0. roc=0.998324958123953,prc=0.9027777777777777
+train_fold_cycle: 43
+[cycle 43] train:    loss=0.04842684684942166,min=0.04027736509839694
+[cycle 43] validate: tn=193,fp=6/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 44
+[cycle 44] train:    loss=0.04904921092092991,min=0.04027736509839694
+[cycle 44] validate: tn=193,fp=6/tp=3,fn=0. roc=0.998324958123953,prc=0.9027777777777777
+train_fold_cycle: 45
+[cycle 45] train:    loss=0.04729826388259729,min=0.04027736509839694
+[cycle 45] validate: tn=192,fp=7/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 46
+[cycle 46] train:    loss=0.03737652407338222,min=0.04027736509839694
+[cycle 46] validate: tn=194,fp=5/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 47
+[cycle 47] train:    loss=0.04396891059974829,min=0.03737652407338222
+[cycle 47] validate: tn=194,fp=5/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 48
+[cycle 48] train:    loss=0.03615026374657949,min=0.03737652407338222
+[cycle 48] validate: tn=194,fp=5/tp=3,fn=0. roc=1.0,prc=1.0
+train_fold_cycle: 49
+[cycle 49] train:    loss=0.03504721932113171,min=0.03615026374657949
+[cycle 49] validate: tn=194,fp=5/tp=3,fn=0. roc=1.0,prc=1.0
+[fold 8] test: tn=185,fp=12/tp=4,fn=0
+
+[fold 8] ROC-AUC: 0.9809644670050761
+[fold 8] PRC-AUC: 0.5134615384615384
+fold_9 is running
+batch_per_epoch=30
+train_fold_cycle: 0
+[cycle 0] train:    loss=0.7032870471477508,min=1e+100
+[cycle 0] validate: tn=113,fp=83/tp=3,fn=2. roc=0.4326530612244898,prc=0.02232898732346235
+train_fold_cycle: 1
+[cycle 1] train:    loss=0.6142863303422927,min=0.7032870471477508
+[cycle 1] validate: tn=127,fp=69/tp=2,fn=3. roc=0.4979591836734694,prc=0.029052325416188282
+train_fold_cycle: 2
+[cycle 2] train:    loss=0.5540231337149938,min=0.6142863303422927
+[cycle 2] validate: tn=123,fp=73/tp=2,fn=3. roc=0.5214285714285714,prc=0.03497896853262508
+train_fold_cycle: 3
+[cycle 3] train:    loss=0.48762473662694295,min=0.5540231337149938
+[cycle 3] validate: tn=128,fp=68/tp=2,fn=3. roc=0.6061224489795918,prc=0.04734725181473763
+train_fold_cycle: 4
+[cycle 4] train:    loss=0.4495120167732239,min=0.48762473662694295
+[cycle 4] validate: tn=137,fp=59/tp=2,fn=3. roc=0.6857142857142857,prc=0.06956909209618145
+train_fold_cycle: 5
+[cycle 5] train:    loss=0.40811759034792583,min=0.4495120167732239
+[cycle 5] validate: tn=167,fp=29/tp=2,fn=3. roc=0.7520408163265306,prc=0.08223675920790799
+train_fold_cycle: 6
+[cycle 6] train:    loss=0.36095192035039264,min=0.40811759034792583
+[cycle 6] validate: tn=165,fp=31/tp=4,fn=1. roc=0.8306122448979593,prc=0.2884477672668091
+train_fold_cycle: 7
+[cycle 7] train:    loss=0.34250271022319795,min=0.36095192035039264
+[cycle 7] validate: tn=172,fp=24/tp=4,fn=1. roc=0.8571428571428572,prc=0.15490131786287875
+train_fold_cycle: 8
+[cycle 8] train:    loss=0.3117735822995504,min=0.34250271022319795
+[cycle 8] validate: tn=171,fp=25/tp=4,fn=1. roc=0.8928571428571428,prc=0.17716671580913068
+train_fold_cycle: 9
+[cycle 9] train:    loss=0.27865060220162075,min=0.3117735822995504
+[cycle 9] validate: tn=174,fp=22/tp=4,fn=1. roc=0.9183673469387755,prc=0.21919483294483294
+train_fold_cycle: 10
+[cycle 10] train:    loss=0.26465718845526376,min=0.27865060220162075
+[cycle 10] validate: tn=168,fp=28/tp=4,fn=1. roc=0.9489795918367347,prc=0.2515293865293865
+train_fold_cycle: 11
+[cycle 11] train:    loss=0.23944159100453058,min=0.26465718845526376
+[cycle 11] validate: tn=174,fp=22/tp=4,fn=1. roc=0.9408163265306122,prc=0.2349756703245075
+train_fold_cycle: 12
+[cycle 12] train:    loss=0.21820885191361108,min=0.23944159100453058
+[cycle 12] validate: tn=175,fp=21/tp=4,fn=1. roc=0.9510204081632654,prc=0.23274415239932483
+train_fold_cycle: 13
+[cycle 13] train:    loss=0.21683152665694555,min=0.21820885191361108
+[cycle 13] validate: tn=179,fp=17/tp=4,fn=1. roc=0.960204081632653,prc=0.40049062049062045
+train_fold_cycle: 14
+[cycle 14] train:    loss=0.19434159497419992,min=0.21683152665694555
+[cycle 14] validate: tn=172,fp=24/tp=5,fn=0. roc=0.9622448979591837,prc=0.31287629994526545
+train_fold_cycle: 15
+[cycle 15] train:    loss=0.18143517623345057,min=0.19434159497419992
+[cycle 15] validate: tn=177,fp=19/tp=5,fn=0. roc=0.963265306122449,prc=0.2860825647782169
+train_fold_cycle: 16
+[cycle 16] train:    loss=0.1697833461066087,min=0.18143517623345057
+[cycle 16] validate: tn=178,fp=18/tp=5,fn=0. roc=0.9714285714285714,prc=0.3027450980392157
+train_fold_cycle: 17
+[cycle 17] train:    loss=0.15785147473216057,min=0.1697833461066087
+[cycle 17] validate: tn=180,fp=16/tp=4,fn=1. roc=0.9714285714285714,prc=0.47515873015873017
+train_fold_cycle: 18
+[cycle 18] train:    loss=0.16116244023044904,min=0.15785147473216057
+[cycle 18] validate: tn=169,fp=27/tp=5,fn=0. roc=0.9744897959183673,prc=0.39225108225108224
+train_fold_cycle: 19
+[cycle 19] train:    loss=0.15056307887037595,min=0.15785147473216057
+[cycle 19] validate: tn=182,fp=14/tp=5,fn=0. roc=0.9693877551020408,prc=0.2845254745254745
+train_fold_cycle: 20
+[cycle 20] train:    loss=0.13749071781833966,min=0.15056307887037595
+[cycle 20] validate: tn=181,fp=15/tp=5,fn=0. roc=0.9775510204081632,prc=0.4919642857142857
+train_fold_cycle: 21
+[cycle 21] train:    loss=0.14348172706862292,min=0.13749071781833966
+[cycle 21] validate: tn=178,fp=18/tp=5,fn=0. roc=0.9806122448979592,prc=0.3591269841269841
+train_fold_cycle: 22
+[cycle 22] train:    loss=0.12191418173412481,min=0.13749071781833966
+[cycle 22] validate: tn=175,fp=21/tp=5,fn=0. roc=0.9806122448979592,prc=0.3741758241758241
+train_fold_cycle: 23
+[cycle 23] train:    loss=0.11744138374924659,min=0.12191418173412481
+[cycle 23] validate: tn=179,fp=17/tp=5,fn=0. roc=0.9826530612244897,prc=0.5195021645021645
+train_fold_cycle: 24
+[cycle 24] train:    loss=0.11832606680691242,min=0.11744138374924659
+[cycle 24] validate: tn=188,fp=8/tp=5,fn=0. roc=0.9836734693877551,prc=0.5279365079365079
+train_fold_cycle: 25
+[cycle 25] train:    loss=0.12858048379421233,min=0.11744138374924659
+[cycle 25] validate: tn=184,fp=12/tp=5,fn=0. roc=0.9857142857142857,prc=0.557936507936508
+train_fold_cycle: 26
+[cycle 26] train:    loss=0.11172052534917991,min=0.11744138374924659
+[cycle 26] validate: tn=180,fp=16/tp=5,fn=0. roc=0.9857142857142858,prc=0.8485380116959065
+train_fold_cycle: 27
+[cycle 27] train:    loss=0.09981045213838419,min=0.11172052534917991
+[cycle 27] validate: tn=185,fp=11/tp=5,fn=0. roc=0.9857142857142857,prc=0.5534126984126984
+train_fold_cycle: 28
+[cycle 28] train:    loss=0.11331711324552694,min=0.09981045213838419
+[cycle 28] validate: tn=183,fp=13/tp=5,fn=0. roc=0.9897959183673469,prc=0.6255555555555556
+train_fold_cycle: 29
+[cycle 29] train:    loss=0.10128876678645611,min=0.09981045213838419
+[cycle 29] validate: tn=179,fp=17/tp=5,fn=0. roc=0.9846938775510203,prc=0.5396031746031746
+train_fold_cycle: 30
+[cycle 30] train:    loss=0.10379551189641158,min=0.09981045213838419
+[cycle 30] validate: tn=183,fp=13/tp=5,fn=0. roc=0.9857142857142857,prc=0.557936507936508
+train_fold_cycle: 31
+[cycle 31] train:    loss=0.0847306323548158,min=0.09981045213838419
+[cycle 31] validate: tn=185,fp=11/tp=5,fn=0. roc=0.9887755102040816,prc=0.4755555555555555
+train_fold_cycle: 32
+[cycle 32] train:    loss=0.09718705552319686,min=0.0847306323548158
+[cycle 32] validate: tn=190,fp=6/tp=5,fn=0. roc=0.9877551020408163,prc=0.5949206349206348
+train_fold_cycle: 33
+[cycle 33] train:    loss=0.09308433135350545,min=0.0847306323548158
+[cycle 33] validate: tn=184,fp=12/tp=5,fn=0. roc=0.9877551020408164,prc=0.586031746031746
+train_fold_cycle: 34
+[cycle 34] train:    loss=0.07128319541613261,min=0.0847306323548158
+[cycle 34] validate: tn=190,fp=6/tp=5,fn=0. roc=0.9928571428571429,prc=0.7188888888888889
+train_fold_cycle: 35
+[cycle 35] train:    loss=0.08163585464159648,min=0.07128319541613261
+[cycle 35] validate: tn=184,fp=12/tp=5,fn=0. roc=0.9826530612244898,prc=0.37793650793650796
+train_fold_cycle: 36
+[cycle 36] train:    loss=0.08603035273651281,min=0.07128319541613261
+[cycle 36] validate: tn=191,fp=5/tp=5,fn=0. roc=0.9857142857142857,prc=0.5534126984126984
+train_fold_cycle: 37
+[cycle 37] train:    loss=0.07675997130572795,min=0.07128319541613261
+[cycle 37] validate: tn=189,fp=7/tp=5,fn=0. roc=0.9887755102040816,prc=0.6193650793650793
+train_fold_cycle: 38
+[cycle 38] train:    loss=0.0789064840724071,min=0.07128319541613261
+[cycle 38] validate: tn=191,fp=5/tp=5,fn=0. roc=0.9948979591836734,prc=0.8605555555555555
+[fold 9] test: tn=188,fp=11/tp=1,fn=2
+
+[fold 9] ROC-AUC: 0.8827470686767169
+[fold 9] PRC-AUC: 0.36887843956809474
+fold_id	POC-AUC			PRC-AUC
+0	0.7908163265306123	0.35433874161076795
+1	0.8909574468085106	0.40638721972506325
+2	0.7918781725888325	0.21525888864317655
+3	0.5214646464646465	0.02225022217418539
+4	0.8632478632478634	0.7111328957050462
+5	0.5420875420875421	0.3429344882332257
+6	0.42700729927007297	0.02012534041328691
+7	0.45410628019323673	0.0043859649122807015
+8	0.9809644670050761	0.5134615384615384
+9	0.8827470686767169	0.36887843956809474
+ROC-AUC = 0.7145277112873111 ¡À 0.19540489935118693
+PRC-AUC = 0.2959153739446666 ¡À 0.2203023539517498
+fold_0 cost 533.2606174945831 seconds.
+fold_1 cost 725.0242614746094 seconds.
+fold_2 cost 356.2715413570404 seconds.
+fold_3 cost 745.7718799114227 seconds.
+fold_4 cost 789.8225014209747 seconds.
+fold_5 cost 234.44405245780945 seconds.
+fold_6 cost 776.7843325138092 seconds.
+fold_7 cost 644.2790319919586 seconds.
+fold_8 cost 661.3215229511261 seconds.
+fold_9 cost 507.61437249183655 seconds.
+the total cost is 5974.59411406517
